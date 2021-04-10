@@ -1,0 +1,19 @@
+{
+  "name": "honeymail",
+  "version": "1.0.0",
+  "description": "daily mail service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C1oud",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "cheerio": "^1.0.0-rc.5",
+    "dayjs": "^1.10.4",
+    "node-schedule": "^2.0.0",
+    "nodemailer": "^6.5.0",
+    "superagent": "^6.1.0"
+  }
+}
